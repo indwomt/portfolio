@@ -6,25 +6,25 @@ export default function Greeting() {
     
   
     return (
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Lauren Bentley</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+  <div className="container-fluid">
+    <a className="navbar-brand" href="#">Lauren Bentley</a>
+    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span className="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse " id="navbarNav">
-      <ul class="col-10 navbar-nav d-flex justify-content-center">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">About</a>
+    <div className="collapse navbar-collapse " id="navbarNav">
+      <ul className="col-10 navbar-nav d-flex justify-content-center">
+        <li className="nav-item">
+          <a className="nav-link active" aria-current="page" href="#">About</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Projects</a>
+        <li className="nav-item">
+          <a className="nav-link" href="#">Projects</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Resume</a>
+        <li className="nav-item">
+          <a className="nav-link" href="#">Resume</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
+        <li className="nav-item">
+          <a className="nav-link" href="#">Contact</a>
         </li>
       </ul>
     </div>
