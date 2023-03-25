@@ -13,7 +13,8 @@ function App() {
     <>
     <Header />,
     <Landing />,
-    <About />
+    <About />,
+    <Resume />
     </>
   );
 }
