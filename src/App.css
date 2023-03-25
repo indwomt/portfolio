@@ -77,6 +77,16 @@
   background-color: #004d00;
 }
 
+.headshot {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+.about-header {
+  margin-bottom: 50px;
+}
+
 
 
 
