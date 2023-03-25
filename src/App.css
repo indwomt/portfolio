@@ -39,10 +39,16 @@
 } */
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap');
+
+
+.about-header{
+  font-family: 'Roboto Slab', serif;
+}
 
 #root {
   font-family: 'Montserrat', sans-serif;
-  background-color: #001a00;
+  background-color: #1a1a1a;
   color: #ffffff;
 }
 
@@ -54,7 +60,7 @@
 
 .landing{
   height: 80vh;
-  background-color: #001a00;
+  background-color: #1a1a1a;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -74,7 +80,8 @@
 
 
 .navbar {
-  background-color: #004d00;
+  background-color:#262626 ;
+  color: white;
 }
 
 .headshot {
@@ -86,6 +93,11 @@
 .about-header {
   margin-bottom: 50px;
 }
+
+.navbar-nav .nav-link .navbar-brand {
+  color: white;
+}
+
 
 
 
