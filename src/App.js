@@ -14,7 +14,8 @@ function App() {
     <Header />,
     <Landing />,
     <About />,
-    <Resume />
+    <Resume />,
+    <Contact />
     </>
   );
 }

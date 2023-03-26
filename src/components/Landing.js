@@ -11,11 +11,11 @@ export default function Landing() {
     
     <div className="container-fluid d-flex-col col-6 jumboleft ">
       <h1 className="display-4">Hi, I'm Lauren Bentley.</h1>
-      <h3 className="display-9">I'm a fullstack developer.</h3>
+      <h3 className="display-9">I'm a full stack developer.</h3>
       <p className='display-9'>Check me out.</p>
     </div>
     <div className='svg col-6'>
-      <img width='800px' height='500px'src={landingSVG}></img>
+      {/* <img width='800px' height='500px'src={landingSVG}></img> */}
     </div>
   </div>
 </div>
