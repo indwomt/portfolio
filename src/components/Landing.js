@@ -1,7 +1,7 @@
 import React from 'react';
-import github from '../assets/github.svg'
-import linkedin from '../assets/linkedin.svg'
-import landingSVG from '../assets/landingdisplay.svg'
+// import github from '../assets/github.svg'
+// import linkedin from '../assets/linkedin.svg'
+// import landingSVG from '../assets/landingdisplay.svg'
 
 export default function Landing() {
 

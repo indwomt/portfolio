@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from '../assets/BENTLEYResume.pdf'
+// import resume from '../assets/BENTLEYResume.pdf'
 
 
 export default function Resume() {
@@ -9,7 +9,7 @@ export default function Resume() {
             {/* <h2 className="resume-header align-self-start">Resume</h2> */}
             
             <h3>Want to know more about my career?</h3>
-            <a href={resume}>Resume</a>
+            {/* <a href={resume}>Resume</a> */}
             </div>
 
         </div>
