@@ -3,7 +3,7 @@ import headshot from '../assets/headshot.jpg'
 
 export default function About() {
     return (
-        <div className="container about-parent">
+        <div id="about"className="container about-parent">
             <div className="row about-content align-text-center">
                 <h2 className='about-header'>About</h2>
                 
