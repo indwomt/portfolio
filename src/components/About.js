@@ -1,5 +1,5 @@
 import React from 'react';
-import headshot from '../assets/headshot.jpg'
+// import headshot from '../../public/assets/headshot.jpg'
 
 export default function About() {
     return (
@@ -8,7 +8,7 @@ export default function About() {
                 <h2 className='about-header'>About</h2>
                 
                 <div className="about-img col-md-6 col-sm-12 align-text-center align-items-center d-flex justify-content-center">
-                    <img className='headshot'src={headshot}></img>
+                    <img className='headshot'src=''></img>
                 </div>
                 <div className="col-md-6 col-sm-12">
                     <span className="about-text"> A web developer with a growth-mindset and a passion for collaboration and problem-solving.</span>
