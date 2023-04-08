@@ -11,12 +11,12 @@ import Resume from './components/Resume'
 function App() {
   return (
     <>
-    <Header />,
-    <Landing />,
-    <About />,
-    <Projects />,
-    <Resume />,
-    <Contact />,
+    <Header />
+    <Landing />
+    <About />
+    <Projects />
+    <Resume />
+    <Contact />
     
     
     
