@@ -7,13 +7,14 @@ import Header from './components/Header'
 import Landing from './components/Landing'
 import Projects from './components/Projects'
 import Resume from './components/Resume'
+import headshot from './assets/headshot.jpg'
 
 function App() {
   return (
     <>
     <Header />
     <Landing />
-    <About />
+    <About props={headshot}/>
     <Projects />
     <Resume />
     <Contact />

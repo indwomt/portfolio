@@ -1,7 +1,7 @@
 import React from 'react';
 import headshot from '../assets/headshot.jpg'
 
-export default function About() {
+export default function About(props) {
     return (
         <div id="about"className="container about-parent">
             <div className="row about-content align-text-center">
